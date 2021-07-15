@@ -3,7 +3,7 @@
 
 ## About Me ✍
 I'm Sunil Chormare pursuing Computer Science and Engineering.
-I'm also passionate in learning new technologies.
+I'm passionate in learning new technologies.
 I'm a quick and passionate learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
 I think no matter how hard the past is, you can always begin again...
 and I believe every day is a chance to begin again.
