@@ -15,7 +15,7 @@ I love whatever I do...and also I do whatever I love...💜
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilchormare&count_private=true&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sunilchormare&count_private=true&show_icons=true&theme=radical)
 
 ## Connect with me
 
