@@ -1,4 +1,4 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/sunilbchormare">Sunil Chormare</a> 👨‍🎓
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋 , I am <a href="https://www.linkedin.com/in/sunilbchormare">Sunil Chormare</a> 👨‍🎓
 
 
 ## About Me ✍
@@ -15,9 +15,10 @@ I love whatever I do...and also I do whatever I love...💜
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
 
-## My GitHub stats  📈 
-![My GitHub stats ](https://github-readme-stats-sigma-five.vercel.app/api?username=sunilchormare&count_private=true&show_icons=true&theme=radical)
-
+## My GitHub Stats  📈 
+    
+  ![My GitHub stats ](https://github-readme-stats-sigma-five.vercel.app/api?username=sunilchormare&count_private=true&show_icons=true&theme=radical)
+ 
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/sunilbchormare">
